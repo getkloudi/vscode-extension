@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Sign%20up%20for-Early%20Access%20Program-brightgreen)](https://kloudi.tech/signup)
 [![](https://img.shields.io/badge/Install-VSCode%20Extension-brightgreen)](vscode:extension/Kloudi.kloudi)
 [![](https://img.shields.io/badge/report-issues-red)](https://github.com/kloudi-tech/vscode-app/issues)
-![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKloudiTech)
+[![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKloudiTech)](https://twitter.com/KloudiTech)
 
 
 # What you one expect from v1.0 🎉!
