@@ -52,7 +52,6 @@ The VSCode extension is an experiment to bring complete functionality of Kloudi 
   - [Report an Issue or Give Feedback](#report-an-issue-or-give-feedback)
 - [What is Kloudi best at?](what-is-kloudi-best-at-?)
 - [What to expect in future releases](what-to-expect-in-future-release)
-- [Get Early Access Now](get-early-access-now)
 
 # Getting Started 🏁
 
