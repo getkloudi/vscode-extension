@@ -1,4 +1,4 @@
-# Kloudi's VSCode Extension
+# Kloudi's VSCode Extension (Alpha)
 
 <p align="center">
   <br />
