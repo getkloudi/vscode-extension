@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <a title="Signup for Kloudi's Early Access Program" href="https://kloudi.tech">
+  <a title="Kloudi - Universal Command Line for your tools" href="https://kloudi.tech">
     <img alt="Kloudi loves VS Code" width="320px" src="https://kloudi.tech/kloudi-in-vscode.png"/>
   </a>
 </p>
